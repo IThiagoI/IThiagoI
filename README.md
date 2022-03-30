@@ -4,7 +4,7 @@
 
 ◽ ⏱️ Idade: <br>
   ⤷ 23 anos <br>
-◽ ⛪ Estado: civil <br>
+◽ ⛪ Estado civil: <br>
   ⤷ Casado <br>
 ◽ 👨‍🎓 Formação Acadêmica: <br>
   ⤷ Cursando Análise e Desenvolvimento de Sistemas – UNOPAR. <br>
