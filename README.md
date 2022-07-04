@@ -3,7 +3,7 @@
 🟤 Sobre mim:
 
 ◽ ⏱️ Idade: <br>
-  ⤷ 23 anos <br>
+  ⤷ 24 anos <br>
 ◽ ⛪ Estado civil: <br>
   ⤷ Casado <br>
 ◽ 👨‍🎓 Formação Acadêmica: <br>
